@@ -206,7 +206,9 @@ Secondary moderate correlation between Income and Cars (0.45)
 These relationships influence bike purchasing behavior in the following ways:
 
 1. Older buyers at a parenthood life stage will factor priorities like child safety, storage capacity, and durability/reliability into purchase decisions. Marketing and product design catering to family practicality will resonate most.
+
 2. Higher disposable income allows greater ability to spend on premium bike features, accessories, or own multiple bikes per household member. Tiered pricing and upsell opportunities should target higher income segments accordingly.
+
 In summary, the correlations related to buyer life stage and affluence suggest taping into family-oriented messaging and tiered pricing to income are likely the most impactful strategies influenced by the observed data relationships.
 
 **10. Line Graph (Education level and Commute Distance)**
@@ -227,9 +229,9 @@ In summary, the correlations related to buyer life stage and affluence suggest t
 
 1. Extremely short 0-1 mile university commutes similarly see high purchase levels near 80-90 among undergrads
 
-2.Mid-bands from 1-5 miles reveal lower flat purchases around 30-50, hinting at more mixed usage vs. convenience tradeoffs
+2. Mid-bands from 1-5 miles reveal lower flat purchases around 30-50, hinting at more mixed usage vs. convenience tradeoffs
 
-3.Purchase rates then spike counterintuitively for longer 5-10 mile potential bikeable distances signaling fitness/lifestyle preference
+3. Purchase rates then spike counterintuitively for longer 5-10 mile potential bikeable distances signaling fitness/lifestyle preference
 
 **Graduate/Post-Graduate**
 
