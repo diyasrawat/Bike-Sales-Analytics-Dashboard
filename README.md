@@ -209,6 +209,38 @@ These relationships influence bike purchasing behavior in the following ways:
 2. Higher disposable income allows greater ability to spend on premium bike features, accessories, or own multiple bikes per household member. Tiered pricing and upsell opportunities should target higher income segments accordingly.
 In summary, the correlations related to buyer life stage and affluence suggest taping into family-oriented messaging and tiered pricing to income are likely the most impactful strategies influenced by the observed data relationships.
 
+**10. Line Graph (Education level and Commute Distance)**
+
+**Question:** How does the relationship between commute distance and bike purchase trends vary across levels of education - high school, undergraduate, or graduate/post grad? Are there differences or commonalities observed in the way shorten or longer commute bands impact purchase propensity?
+
+**Answer:**
+
+**High School**
+
+1. Short 0-1 mile commutes see high bike purchase counts around 20 buyers, reflecting strong demand from high schoolers making quick local trips
+
+2. Rate then declines linearly as mid-range commute distance grows to 2-5 miles, with plunging interest as mileage exceeds convenient distances
+
+3. Virtually no purchases occur once typical school commute extends to 5-10 mile range, with alternatives preferred
+
+**Undergraduate**
+
+1. Extremely short 0-1 mile university commutes similarly see high purchase levels near 80-90 among undergrads
+
+2.Mid-bands from 1-5 miles reveal lower flat purchases around 30-50, hinting at more mixed usage vs. convenience tradeoffs
+
+3.Purchase rates then spike counterintuitively for longer 5-10 mile potential bikeable distances signaling fitness/lifestyle preference
+
+**Graduate/Post-Graduate**
+
+1. Continued strong purchase incidence of near 100 buyers for shortest 0-1 mile professional trips
+
+2. Steady tempered response of 20-40 buyers across wider 1-5 mile commute lengths
+
+3. Sharp decrease for 10+ mile commutes mirroring workforce norms
+
+In summary, common high demand for walking-length commutes and drops in long-haul interest persist across education tiers, but divergence emerges at intermediate ranges based on unique sub-group contexts - whether university, professional or school environments.
+
 # Recommendations
 
 **1. Marital Status Bar Graph**
@@ -276,6 +308,15 @@ b) Offer dynamic loyalty programs
 
 c) Provide tiered pricing by income
 
+**9. Line Graph**
+
+a) Target convenient under-1 mile commuters showing consistently high demand regardless of education status
+
+b) Tailor products and messaging for mid-range nuances by group - whether professional, collegiate, or basic secondary school transportation use cases
+
+c) Explore niche flexibility/storage marketing for longer 10+ mile segments to selectively tap hard-to-reach bike commute market with current universal low rate
+
+
 # Conclusion
 
 1. Single individuals have the highest bike purchase rate, presenting a prime target segment
@@ -287,6 +328,8 @@ c) Provide tiered pricing by income
 4. Parents and young professionals represent focused demographics to engage
 
 5. Customization to regional preferences is required
+
+6. Commute distance - short distances enable universal bike appeal, but longer commutes warrant selective niche targeting
 
 # Future Scope
 
