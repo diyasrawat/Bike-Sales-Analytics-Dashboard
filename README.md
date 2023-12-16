@@ -1,4 +1,4 @@
-# Bike-Sales-Analytics-Dashboard
+# Bike-Buyers-Analytics-Dashboard
 
 # Project Overview
 This interactive Microsoft Excel dashboard provides insights into customer behaviors, preferences, and trends to help guide data-driven product and marketing decisions.
