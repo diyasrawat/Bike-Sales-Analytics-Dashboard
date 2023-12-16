@@ -263,4 +263,30 @@ c) Provide tiered pricing by income
 
 # Conclusion
 
+1. Single individuals have the highest bike purchase rate, presenting a prime target segment
+
+2. Gender itself has minimal impact on likelihood to purchase
+
+3. Mid-income buyers account for significant volume share
+
+4. Parents and young professionals represent focused demographics to engage
+
+5. Customization to regional preferences is required
+
+# Future Scope
+
+Further studies can harness more granular data and advanced analysis techniques to derive deeper insights:
+
+1. Demographic intersections beyond standalone cuts
+
+2. Psychographic analysis tied to attitudinal factors
+
+3. Formal statistical modeling to quantify effects
+
+4. Wider economic data integration
+
+5. Ethnographic research on barriers and unmet needs
+
+These expansions can uncover more nuanced relationships and premium micro-segments while guiding product-market fit and go-to market strategy. Advanced analytics and datasets focused on the customer journey will proliferate actionability. The current analysis provides a meaningful baseline level view into multiple core demographic dynamics strongly tied to bike purchase propensity and behaviors. Further extending the lens will boost precision.
+
 
