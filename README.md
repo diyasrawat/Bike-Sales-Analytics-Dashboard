@@ -43,9 +43,24 @@ This dataset contains details on 1,000 bike buyers to analyze purchasing pattern
 
 13. Purchased Bike - Boolean flag noting if customer has purchased bike or not
 
-# Steps to Create Dashboard
+# Steps to Create an Interactive Dashboard
+
+1. Clean and normalize data
+
+2. Structure data tables
+
+3. Identify metrics and visualizations
+
+4. Configure sheet linkages
+
+5. Design clear visualizations
+
+6. Add interactivity via filters, slicers
+
+7. Enable click-through navigation
 
 # Concepts Used
+
 1. Descriptive Analytics
 The dashboard utilizes descriptive analytics techniques like measures of central tendency, dispersion, distributions to summarize patterns in dimensions like customer age, income, and purchase frequency. Helps surface overall trends.
 
